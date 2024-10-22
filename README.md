@@ -17,4 +17,4 @@ Install requirements (or requirement...):
 pip install -r requirements.txt
 ```
 
-Run Game via `python3 main.py'
+Run Game via `python3 main.py`
