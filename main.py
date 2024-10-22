@@ -9,7 +9,7 @@ import sys
 # TODO: play Lena Raine - Scattered and Lost
 
 def main():
-    print("Starting asteroids!")
+    print("Starting asteroids...")
     pygame.init()
 
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
