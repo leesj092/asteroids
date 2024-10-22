@@ -1,7 +1,7 @@
 # asteroids
 A very simple asteroids game via pygame.
 
-## Running Game
+## Running The Game
 Create virtual environment at top level of project directory via:
 ```
 python3 -m venv venv
